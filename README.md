@@ -8,8 +8,6 @@ Free, open-source seating charts for weddings, banquets, and classrooms — with
 
 Named for the Roman dining room, where who sat where meant everything.
 
-**Live site:** _add your Bolt/Netlify URL here_
-
 ## Why
 
 Seating-chart software is a strangely expensive niche. The market is paid desktop licenses, per-month subscriptions with tiered "editions," enterprise event-diagramming SaaS sold to venues, and free wedding-site tools whose real job is pulling you into a planning marketplace. As far as I can tell there is no serious FLOSS option in this space. triclinium is meant to be that option: the whole feature set, free forever, under a license that keeps it that way.
