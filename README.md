@@ -4,6 +4,8 @@
 
 https://seatchart.org
 
+try-KLIN-ee-um
+
 Free, open-source seating charts for weddings, banquets, and classrooms — with an auto-seating solver. Runs entirely in your browser: no account, no server, no fees.
 
 Named for the Roman dining room, where who sat where meant everything.
